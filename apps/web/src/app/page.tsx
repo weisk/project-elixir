@@ -34,7 +34,7 @@ export default function Home() {
             center.
           </p>
           <p>
-            Hell yeah lets go!!! I'm actually loving this, <a href="https://www.elixir-de-cbd.com" target="_blank">NOICE</a>
+            {`Hell yeah lets go!!! I'm actually loving this, `}<a href="https://www.elixirdecbd.com" target="_blank">NOICE</a>
           </p>
         </div>
         <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
