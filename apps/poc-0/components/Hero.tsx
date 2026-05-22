@@ -16,6 +16,11 @@ export default function Hero() {
             balance and elevated wellbeing.
           </p>
 
+          <p className="text-[var(--muted)] text-lg mb-8 max-w-xl">
+            Nos dan el trapo, y luego nos lo quitan.
+            Que nos den el trapo, el trapo, el trapo, el trapo, dame el trapo, el trapo , el trapo.
+          </p>
+
           <button className="px-8 py-4 rounded-full gold-gradient text-black font-semibold transition hover:scale-105 cursor-pointer">
             Explore Collection
           </button>
